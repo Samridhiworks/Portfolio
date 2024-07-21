@@ -1260,4 +1260,7 @@ footer .credits a {
   .back-to-top {
     bottom: 15px;
   }
+  #skills{
+    display:none;
+  }
 }
