@@ -1263,4 +1263,10 @@ footer .credits a {
   #skills{
     display:none;
   }
+  .skill-bg{
+    display: none;
+  }
+  .sub-skill{
+     display: none;
+  }
 }
